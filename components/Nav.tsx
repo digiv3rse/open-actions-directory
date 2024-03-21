@@ -42,7 +42,7 @@ export default function Nav() {
           <div className="hidden lg:flex flex-row items-center">
             <Link href="/">
               <div className="flex flex-row justify-center items-center">
-                <Icon width="28px" height="28px" fill={fill} />
+                <Icon width="28px" height="28px" alt="DiGiV3rse Icom" />
                 <p className="text-sm font-semibold">
                   DiGi Open Actions Library
                 </p>

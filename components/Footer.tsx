@@ -22,7 +22,7 @@ export function Footer() {
           '
         >
           <Image
-            src="/svg/digi-grey.svg"
+            src="/digi3.svg"
             width={34}
             height={34}
             alt="DiGi logo"
