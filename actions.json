@@ -1,0 +1,154 @@
+[
+  {
+    "type": "action",
+    "name": "Hello World",
+    "description": "Kickstart your smart post creation with 'Hello World CLI', an ideal toolset for devs.",
+    "long-description": "The 'Hello World CLI Kit' simplifies the journey into digital content creation, especially for newcomers to open actions. It offers the tools and guidance, making the process more approachable and less intimidating for those new to Open Actions.",
+    "link": "https://github.com/digiv3rse/create-smart-post",
+    "builder": "DefiSpartan",
+    "builder_profile": "https://github.com/defispartan",
+    "block_explorer_link": "",
+    "special_security_and_execution_considerations": "",
+    "hero": "hello-world.png",
+    "tag": "SocialFi",
+    "width": 276,
+    "height": 144
+  },
+  {
+    "type": "action",
+    "name": "Scaffold DiGi",
+    "description": "Easily build, debug, test, and deploy an Open Action Modules on DiGiV3rse using Hardhat.",
+    "long-description": "Fork of Scaffold-ETH 2 that demonstrates how to build, debug, test, and deploy an Open Action Module on DiGiV3rse using Hardhat. Implements a basic tip action module that allows users to tip creators for their content.",
+    "link": "https://github.com/iPaulPro/scaffold-digi",
+    "builder": "Paul Burke",
+    "builder_profile": "https://github.com/iPaulPro",
+    "block_explorer_link": "",
+    "special_security_and_execution_considerations": "",
+    "hero": "hello-world.png",
+    "tag": "SocialFi",
+    "width": 276,
+    "height": 144
+  },
+  {
+    "type": "action",
+    "name": "Tipping",
+    "description": "Instantly tip creators to show appreciation and support, fostering a vibrant creator economy.",
+    "long-description": "Tipping transforms user appreciation into tangible support. This feature embeds a culture of direct financial encouragement within the community, enabling followers to actively support and sustain the creative work of their favorite creators.",
+    "tag": "SocialFi",
+    "hero": "tipping.png",
+    "link": "https://github.com/mvanhalen/TipActionModule",
+    "videoLink": "https://tape.xyz/watch/0x01cddb-0x0e",
+    "figmaLink": "https://www.figma.com/file/ifQTouvhx5yhMiuNFqimph/%F0%9F%93%A2-Smart-Post-Design-Examples?type=design&node-id=1%3A12940&mode=design&t=cEMQJKn531XC3BHA-1",
+    "width": 200,
+    "height": 567
+  },
+  {
+    "type": "action",
+    "name": "Promote Communities with MadFi",
+    "description": "Discover and engage with diverse communities through the innovative MadFi platform.",
+    "long-description": "MadFi enriches digital communities by enabling creators to promote social clubs, incentivize engagement, and compensate for community-created content. It fosters active participation and enhances the value of community interactions.",
+    "tag": "SocialFi",
+    "hero": "promote-communities.png",
+    "link": "https://polygonscan.com/address/0x55991a42e8FEb9DFAC9Fcc172f133D36AC2282A2#code",
+    "width": 276,
+    "height": 152
+  },
+  {
+    "type": "action",
+    "name": "Collect on Zora",
+    "description": "Seamlessly collect and trade digital assets with Zora integration, enriching your feed.",
+    "long-description": "Integrating Zora transforms social feeds into interactive digital asset platforms. It facilitates the collection, showcasing, and trading of digital assets, enhancing social interaction and placing a premium on digital creativity and curation.",
+    "tag": "SocialFi",
+    "hero": "zora.png",
+    "link": "https://polygonscan.com/address/0x5f377e3e9BE56Ff72588323Df6a4ecd5cEedc56A#code",
+    "width": 276,
+    "height": 190
+  },
+  {
+    "type": "action",
+    "name": "Cross-Chain Minting with Decent",
+    "description": "Experience limitless creativity by minting assets cross-chain with Decent.xyz.",
+    "long-description": "Decent simplifies cross-chain creativity with 1-click transactions using any token or fiat. Its template allows actions to be embeddable in various platforms, ensuring compatibility across different blockchain networks for seamless user experiences.",
+    "tag": "DeFi",
+    "hero": "decent.png",
+    "link": "https://polygonscan.com/address/0xA9d72bCAd216b1F05d7D60b46Fd8dC01D501257a#code",
+    "width": 276,
+    "height": 152
+  },
+  {
+    "type": "idea",
+    "name": "Pay to Read",
+    "description": "Unlock full content with a payment, bridging curiosity and exclusive access for readers.",
+    "long-description": "Envision a nuanced approach to content monetization. 'Pay To Read Rest' merges user curiosity with creator reward, offering premium content access upon a token-gated payment, effectively balancing reader interest and creator compensation.",
+    "tag": "SocialFi",
+    "hero": "pay-to-read.png",
+    "videoLink": "https://tape.xyz/watch/0x01cddb-0x0c",
+    "figmaLink": "https://www.figma.com/file/ifQTouvhx5yhMiuNFqimph/%F0%9F%93%A2-Smart-Post-Design-Examples?type=design&node-id=1%3A7741&mode=design&t=cEMQJKn531XC3BHA-1",
+    "width": 276,
+    "height": 194
+  },
+  {
+    "type": "idea",
+    "name": "Rent a Post",
+    "description": "Turn your digital space into a revenue source by renting out post space for ads.",
+    "long-description": " 'Rent a Post' offers a new dimension in digital advertising. It allows creators to monetize their social presence by renting post space for ads, providing a unique opportunity for targeted audience engagement and innovative revenue generation.",
+    "tag": "SocialFi",
+    "hero": "rent-a-post.png",
+    "videoLink": "https://tape.xyz/watch/0x01cddb-0x0d",
+    "figmaLink": "https://www.figma.com/file/ifQTouvhx5yhMiuNFqimph/%F0%9F%93%A2-Smart-Post-Design-Examples?type=design&node-id=1%3A707&mode=design&t=cEMQJKn531XC3BHA-1",
+    "width": 276,
+    "height": 249
+  },
+  {
+    "type": "idea",
+    "name": "Buy and Sell DiGi Handles",
+    "description": "Engage in a vibrant market to buy and sell unique digital handles.",
+    "long-description": "The handle trading marketplace reflects the evolving significance of digital identity. This offers a unique way for users to buy and sell digital personas across DiGi apps, merging aspects of personal branding with the web3 social commerce landscape.",
+    "tag": "SocialFi",
+    "hero": "digihandles.png",
+    "width": 252,
+    "height": 175
+  },
+
+  {
+    "type": "idea",
+    "name": "friend.tech",
+    "description": "Trade friend.tech shares in a user-friendly, secure decentralized environment..",
+    "long-description": "The idea for trading friend.tech shares brings a user-friendly and secure approach to decentralized share trading. It makes share trading more accessible, aligning with the vision of decentralized social and broadening its appeal.",
+    "tag": "SocialFi",
+    "hero": "ft.png",
+    "width": 276,
+    "height": 188
+  },
+  {
+    "type": "idea",
+    "name": "Event Discounts with Chainlink",
+    "description": "Easily generate unique Eventbrite discounts for DiGi users with Chainlink Functions.",
+    "long-description": "Integrating Chainlink Functions for Eventbrite discount creation enhances the user experience. This feature offers a practical way to generate and distribute unique discount codes, streamlining engagement for various events and gatherings.",
+    "tag": "SocialFi",
+    "link": "https://github.com/smartcontractkit/functions-digi-eventbrite",
+    "hero": "chainlink.png",
+    "width": 276,
+    "height": 152
+  },
+  {
+    "type": "idea",
+    "name": "Deposit into an Aave Liquidity Pool",
+    "description": "Efficiently manage and grow your collect revenue by depositing into Aave pools.",
+    "long-description": "Seamlessly deposit your collect revenue into Aave liquidity pools, combining the simplicity of collects with DeFi's battle-tested utility. This concept can transform creator monetization, transcending the boundaries of traditional social media.",
+    "tag": "DeFi",
+    "hero": "aave.png",
+    "width": 276,
+    "height": 232
+  },
+  {
+    "type": "idea",
+    "name": "Use Uniswap to Buy Crypto",
+    "description": "Effortlessly buy crypto and swap tokens within your feed utilizing native Uniswap functionality.",
+    "long-description": "Integrating Uniswap functionality directly into the social feed simplifies the crypto experience. This feature makes buying and swapping tokens a seamless part of the social media experience, enhancing user convenience and accessibility.",
+    "tag": "DeFi",
+    "hero": "uniswap.png",
+    "width": 276,
+    "height": 152
+  }
+]
